@@ -1,3 +1,3 @@
-# Titox
+# Hi there ! :wave:
 
-Welcome to my profile ! :rocket:
+:rocket: A passionate Swiss developer !

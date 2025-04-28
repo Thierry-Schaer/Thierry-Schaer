@@ -1,3 +1,3 @@
 # Hi there ! :wave:
 
-:rocket: A passionate Swiss developer !
+:rocket: The profile of a passionate Swiss developer !
